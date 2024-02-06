@@ -1,29 +1,83 @@
-## Hi there, I am Ibrahim 
+### Hi there <img height="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ibrahimijai&show_icons=true&theme=cobalt"/>
-<img  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimijai&layout=compact"/>
-
-## Programing Languages
-<img align="left" width="10%" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" width="10%" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="left" width="10%" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
-<img align="left" width="10%" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img align="left" width="10%" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img  width="10%" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-
-## Frameworks and some Libraries
-<img align="left" width="10%" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img align="left" width="10%" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img align="left" width="10%" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img align="left" width="10%" src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/>
-<img align="left" width="10%" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="left" width="10%" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img align="left" width="10%" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>
+<img src="https://raw.githubusercontent.com/ibrahimijai/ibrahimijai/master/banner.png" alt="IbrahimIjai">
 
 
+### :heavy_check_mark: Full Stack Developer | Web | Web3 Engineer
 
-  <!-- Markdown badges: https://github.com/Ileriayo/markdown-...
+## 📫 How to reach me:  
 
-GitHub Readme stats: https://github.com/anuraghazra/github...
+- - :octocat: Github  => :link:	https://github.com/ibrahimijai
+- - 🟣: LinkedIn:     => :link:	https://www.linkedin.com/in/ibrahim-ijai-sunday-987b91185/
+- - 🔵: Twitter:      => :link:	https://twitter.com/ibrahimijai
+- - 🔶: Telegram:     => :link:	https://t.me/ibrahimijai
+- - ⬜: Discord       => :link:	https://discordapp.com/users/whizzie_web3
 
-Blog post workflow: https://github.com/gautamkrishnar/blo... -->
+
+## Technologies I am currently building solutions around with:
+
+### (Front-End)
+- React Js
+- Vue Js
+- Next Js (full stack)
+- Nuxt Js (full stack)
+- Framer motion (React Animation)
+- GSAP
+
+### (Back-End)
+- Node Js 
+- Express Js 
+- Rest API
+- GraphQl 
+
+### (Web3)
+- Subgraph Development(the graph protocol)
+- Solidty
+- Rust
+- EVM smart contract integration
+    - Wagmi
+    - Viem
+    - Ethers js
+    - Web3js
+- wallets integration
+- IPFS storage
+
+### (Styling)
+- Material UI
+- Tailwindcss
+- Chakra UI
+- CSS 
+- Sass/Scss
+- Bootstrap
+- Styled components
+- Ant Design
+
+### (Databases)
+- Postgress
+- MongoDB 
+- Firebase (Firestore)
+- Supabase
+
+### (Tools)
+- Figma
+- Git (and Github) 
+- CI/CD
+- Turbo Repo
+
+### (Deployment)
+- Vercel
+- Surge
+- Netlify
+- Heroku
+- Firebase 
+
+
+
+## Github Status 🏆
+
+<img  src="https://github-readme-stats.vercel.app/api?username=ibrahimijai&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimijai&theme=react" width="48%" >
+
+
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=ibrahimijai.ibrahimijai" alt="ibrahimijai :: Visitor's Count" /></p>
+
