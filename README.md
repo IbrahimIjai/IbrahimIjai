@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/ibrahimijai/ibrahimijai/master/banner.png" alt="IbrahimIjai">
 
 
-### :heavy_check_mark: Full Stack Developer | Web | Web3 Engineer
+### :heavy_check_mark: Frontend Developer | Web | Web3 | Javascript developer
 
 ## 📫 How to reach me:  
 
