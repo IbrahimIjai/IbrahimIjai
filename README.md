@@ -1,15 +1,17 @@
 ### Hi there <img height="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+I'm a 24 year old full-stack engineer and smart contract developer
 
-### :heavy_check_mark: Web developer - eating react, vue, next js, nuxt js. Web3 developer _solidity, rust
+## ⚡️ Current
+
+Currently working on building [KOANPROTOCOL](https://koanprotocol.xyz/)
+
+
+## 💎 Experience
+
+I am a full-stack developer, and I have most experience with frontend development and dapps, primarily [React](https://reactjs.org/) & [Vue.js](https://vuejs.org/) and then using the super frameworks next js and nuxtjs. I also build backend using nodejs, and write smart contracts using solidity and rust.
 
 
 
-## Technical skills
-- Typescript
-- Solidity
-- Rust
-- Python
-- C
 
 ## Github Status 🏆
 
