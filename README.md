@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Full-Stack Developer | Smart Contract Enthusiast
 
-Hello! I'm Ibrahim, a 24-year-old developer passionate about ai, blockchain technology and decentralized finance.
+Hello! I'm Ibrahim, passionate about DeFi, Modern UI, Ai, blockchain technology and decentralized finance.
 
 ## ⚡️ Current
 
