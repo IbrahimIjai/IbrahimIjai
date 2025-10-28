@@ -1,12 +1,12 @@
 # Ibrahim Ijai
 
-## 👨‍💻 Full-Stack Developer | Smart Contract Enthusiast
+###  Full-Stack web3 Developer
 
 Hello! I'm Ibrahim, passionate about DeFi, Modern UI, Ai, blockchain technology and decentralized finance.
 
-## ⚡️ Current
+### ⚡️ Current
 
-Currently working on building [KOANPROTOCOL](https://koanprotocol.xyz/)
+Currently working on building [koanprotocol](https://koanprotocol.xyz/)
 
 ## 💻 Technical Skills
 
