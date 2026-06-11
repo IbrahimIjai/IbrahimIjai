@@ -14,7 +14,7 @@ I build business-ready, production backends and enjoy crafting high-quality user
 | Project | Description | Links |
 | --- | --- | --- |
 | **Transend** | Transactional email API for sending emails, verifying sending domains, and inspecting delivery activity. | [Website](https://transend.email) · [Docs](https://docs.transend.email) |
-| **Koanprotocol** | Cross-chain DeFi protocol with swaps, liquidity provision, and yield products. | [Website](https://koanprotocol.com) · [GitHub](https://github.com/IbrahimIjai/Koan-protocol-frontend) |
+| **Koanprotocol (v1)** | Aggregated cross-chain swap and aggregated on/off-ramp with a full-stack backend, plus prediction and lottery games. | [Website](https://koanprotocol.com) · [GitHub](https://github.com/IbrahimIjai/Koan-protocol-frontend) |
 | **Rust E-Commerce API** | Production-ready e-commerce REST API in Rust — auth, catalog, orders, and Paystack payments with a full integration test suite. | [GitHub](https://github.com/IbrahimIjai/rust_ecommerce) |
 | **Onboard** | Onboards web2-native users into DeFi through a friendly, ChatGPT-like chat interface. | [GitHub](https://github.com/IbrahimIjai/onboardxx) · [Live](https://onboard-monad.vercel.app) |
 
